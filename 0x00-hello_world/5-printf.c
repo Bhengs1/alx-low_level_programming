@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * main - Hello printf
+ * main - with proper grammar,
+ * but the outcome in a piece of art
+ *
  * Return: 0 (Success)
  */
 
