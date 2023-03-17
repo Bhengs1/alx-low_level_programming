@@ -1,7 +1,7 @@
 #include <stdio.h>
+
 /**
- * main - with proper grammar,
- * but the outcome in a piece of art
+ * main - Hello Printf
  *
  * Return: 0 (Success)
  */
