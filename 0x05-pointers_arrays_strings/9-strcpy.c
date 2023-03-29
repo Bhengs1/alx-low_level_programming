@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * char *_strcpy - a function that copies the string pointed to by src
+ * char *_strcpy - See description
  * @dest: copy to
  * @src: copy from
- * Return: string
+ * Description: Copy the string pointed to by pointer `src` to
+ * the buffer pointed to by `dest`
+ * Return: Pointer to `dest`
  */
 
 char *_strcpy(char *dest, char *src)
@@ -16,7 +18,7 @@ char *_strcpy(char *dest, char *src)
 	{
 		l++;
 	}
-	for ( ; x < 1 ; x++)
+	for ( ; x < l ; x++)
 	{
 		dest[x] = src[x];
 	}
